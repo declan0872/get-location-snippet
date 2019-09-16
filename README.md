@@ -1,6 +1,6 @@
 # Get Users Location (coordinates)
 
-Show the users location in coordinates.
+Show the users location in coordinates using ```MapKit``` and ```CoreLocation```.
 
 ## Tech Specs
 
